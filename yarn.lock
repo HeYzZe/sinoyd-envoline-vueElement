@@ -7272,9 +7272,10 @@ timsort@^0.3.0:
   version "0.3.0"
   resolved "http://registry.npm.taobao.org/timsort/download/timsort-0.3.0.tgz#405411a8e7e6339fe64db9a234de11dc31e02bd4"
 
-tinymce@^4.9.2:
-  version "4.9.2"
-  resolved "http://registry.npm.taobao.org/tinymce/download/tinymce-4.9.2.tgz#c20ba7aa082125f16e0372fbc2f844c83236b75e"
+tinymce@^4.9.7:
+  version "4.9.7"
+  resolved "https://registry.yarnpkg.com/tinymce/-/tinymce-4.9.7.tgz#74ce54f07cfc0268a5ac5e34f610044658c92f47"
+  integrity sha512-cj0HvUuniTuIjOAJdRt5BUfeQqM5yHjbA2NOub9HUHXlCrT9OwD9WBPU6tGlaPC2l2I4eGoOnT8llosZRdQU5Q==
 
 tmp@^0.0.33:
   version "0.0.33"
